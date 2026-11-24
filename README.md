@@ -62,7 +62,7 @@ The lessons, the measurements and the code are unchanged. Two reference files th
 
 ## Companion skills
 
-Some cross-references point at other skills in our set (`dsc-seo-audit`, `dsc-gbp-audit`, `dsc-fca-compliance`, `uk-car-dealer-copy`, `carro-estate-deploy`). Those are not published here; the cross-link simply won't resolve, and the methodology stands on its own.
+Some cross-references point at other skills in our set (`dsc-seo-audit`, `dsc-gbp-audit`, `dsc-fca-compliance`, `uk-car-dealer-copy`, `platform-estate-deploy`). Those are not published here; the cross-link simply won't resolve, and the methodology stands on its own.
 
 ## Contributing
 
